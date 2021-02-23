@@ -593,6 +593,16 @@
                 android:data="https://t.me/prakaship78" />
         </Preference>
 
+        <Preference
+            android:id="@+id/device_davinci"
+            android:icon="@drawable/havoc_device"
+            android:summary="@string/device_davinci_summary"
+            android:title="@string/device_davinci">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/rerererererererererer" />
+        </Preference>
+
         <!--<Preference
             android:id="@+id/device_oxygen"
             android:icon="@drawable/havoc_device"

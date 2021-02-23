@@ -352,4 +352,7 @@
     <string name="device_crystal" translatable="false">Nokia 7.1</string>
     <string name="device_crystal_summary" translatable="false">Crystal\nRaghu Varma</string>
 
+    <string name="device_davinci" translatable="false">Xiaomi Mi 9T</string>
+    <string name="device_davinci_summary" translatable="false">davinci\nwannacry</string>
+
 </resources>
